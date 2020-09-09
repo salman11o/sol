@@ -1,2 +1,0 @@
-# sol
-assignment solution
